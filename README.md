@@ -1,29 +1,45 @@
-﻿# B.Tech Trimester 1
+﻿# B.Tech | Trimester 1 — Academic Portfolio
 
-Coursework and learning materials from Trimester 1 of my B.Tech programme at KLH University.
+**KLH University | Academic Year 2025–2026**
 
-## Subjects
+A structured collection of my first-trimester engineering coursework, covering programming fundamentals, mathematical foundations, design thinking and communication skills.
 
-| Subject | What this repository contains |
+This repository documents the subjects studied, concepts covered, academic activities and design work completed during Trimester 1.
+
+## Academic Subjects
+
+| Subject | Focus Areas |
 |---|---|
-| Design Thinking for Innovation | Design process, problem identification, and prototyping work |
-| Language Skills for Engineers | Cambridge assignments |
-| Discrete Mathematics | Subject learning and coursework |
-| Problem Solving Through Programming (Java) | Java fundamentals and programming practice |
+| [Design Thinking for Innovation](./01-Design-Thinking-for-Innovation/) | Problem identification, ideation, paper prototyping and solution planning |
+| [Language Skills for Engineers](./02-Language-Skills-for-Engineers/) | Cambridge assignments and engineering communication coursework |
+| [Discrete Mathematics](./03-Discrete-Mathematics/) | Sets, relations, logic, proofs, counting, recurrence relations and graph theory |
+| [Problem Solving Through Programming – Java](./04-Problem-Solving-Through-Programming-Java/) | Java fundamentals and programming practice |
 
-## Design Thinking Project
+## Design Work
 
-**Tourism at Hidden Places**
+### Tourism at Hidden Places
 
-A design and prototyping exercise focused on identifying a problem, developing an idea, and sketching the proposed frontend on paper/charts. This repository does not present it as a completed coded application.
+A design-thinking concept exploring how lesser-known tourist destinations could be brought to people's attention. The work focused on understanding the problem, developing the idea and planning a possible digital solution through paper-based frontend sketches and prototyping.
+
+**Work covered:** Problem identification · Idea development · Interface sketching · Prototyping · Implementation planning
+
+*This was a design and prototyping exercise, not a completed or deployed software application.*
+
+## Problem-Based Learning
+
+PBL activities involved analysing scenario-based questions and applying concepts from different subjects to practical situations. This helped connect classroom learning with real-world problem-solving situations.
 
 ## Repository Structure
 
-- `01-Design-Thinking-for-Innovation/`
-- `02-Language-Skills-for-Engineers/`
-- `03-Discrete-Mathematics/`
-- `04-Problem-Solving-Through-Programming-Java/`
+```text
+BTech-Trimester-1/
+├── 01-Design-Thinking-for-Innovation/
+├── 02-Language-Skills-for-Engineers/
+├── 03-Discrete-Mathematics/
+└── 04-Problem-Solving-Through-Programming-Java/
+    └── Java-Programs/
+```
 
-## Note
+## Purpose
 
-This repository is being organised as a record of coursework and learning. Materials and programming exercises will be added as they are completed.
+This repository serves as an organised academic record of the foundations developed during my first trimester of B.Tech, including programming, mathematical reasoning, structured problem-solving and early-stage product design.
