@@ -1,13 +1,12 @@
 ﻿# Discrete Mathematics
 
-This folder records the topics I studied in **Discrete Mathematics** during B.Tech Trimester 1 at KLH University.
+This subject introduced me to mathematical concepts used to solve problems involving sets, relations, functions, logic, counting and graphs.
 
-The subject introduced me to sets, relations, functions, mathematical logic, proof techniques, counting methods, recurrence relations and graph theory. The sections below reflect the areas covered during the course.
+Here is a record of the topics I studied during B.Tech Trimester 1 at KLH University.
 
 ## Topics Studied
 
 ### 1. Sets and Relations
-
 - Sets, subsets and power sets
 - Cartesian products and set operations
 - Venn diagrams and the inclusion-exclusion principle
@@ -17,7 +16,6 @@ The subject introduced me to sets, relations, functions, mathematical logic, pro
 - Lattices and Hasse diagrams
 
 ### 2. Functions and Logic
-
 - Injective and bijective functions
 - Inverse and composite functions
 - Floor and ceiling functions
@@ -28,16 +26,13 @@ The subject introduced me to sets, relations, functions, mathematical logic, pro
 - Negation of quantified statements
 
 ### 3. Proof Techniques and Counting
-
 - Direct and indirect proofs
-- Proof by contradiction
-- Proof by contraposition
+- Proof by contradiction and contraposition
 - Basic counting principles
 - Pigeonhole principle
 - Permutations and combinations
 
 ### 4. Recurrence Relations and Graph Theory
-
 - Linear recurrence relations with constant coefficients
 - Generating functions
 - Characteristic roots
@@ -47,21 +42,23 @@ The subject introduced me to sets, relations, functions, mathematical logic, pro
 - Shortest path problems
 - Planar graphs and graph colouring
 
-## Learning and Problem-Solving
+## My Learning
 
-While studying these topics, I worked through mathematical problems involving:
+Through these topics, I became familiar with different ways of representing mathematical problems and reasoning through them.
 
-- Representing sets and examining relationships between their elements.
-- Identifying relation properties and understanding ordered structures.
-- Evaluating functions and analysing logical statements.
-- Applying proof methods to mathematical questions.
-- Solving counting problems using permutations, combinations and the pigeonhole principle.
-- Understanding recurrence relations and different graph structures.
+Some of the areas I explored included:
+- Understanding relationships between elements using sets and relations.
+- Working with logical statements, functions and mathematical proofs.
+- Applying counting methods to problems involving arrangements and selections.
+- Understanding graph structures and concepts such as paths, connectivity and colouring.
+- Studying recurrence relations and their mathematical representation.
 
-## What I Took Away
-
-The course helped me become more comfortable with step-by-step mathematical reasoning. I gained exposure to formal logic, proof-based problem-solving, counting methods and graph concepts that are useful in understanding discrete structures.
+This subject gave me experience with structured reasoning and solving problems step by step.
 
 ---
 
-*Trimester 1 coursework | KLH University | 2025*
+**Subject:** Discrete Mathematics  
+**Course Code:** 25MT1002E  
+**Programme:** B.Tech, Computer Science and Information Technology  
+**Institution:** KLH University  
+**Trimester:** 1 | 2025

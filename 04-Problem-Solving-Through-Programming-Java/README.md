@@ -1,34 +1,33 @@
 ﻿# Problem Solving Through Programming (Java)
 
-This folder documents my learning of **Java programming fundamentals** during B.Tech Trimester 1 at KLH University.
+This subject introduced me to programming with Java and helped me build a foundation in writing programs to solve problems.
 
-My focus was on understanding the basics of programming and building familiarity with writing and organising Java programs.
+## My Learning
 
-## Practice Areas
+During Trimester 1, I learned the basics of Java and became familiar with translating simple problem requirements into program instructions.
 
-The Java practice work is organised into the following sections:
+My learning focused on:
+- Understanding the basics of Java programming.
+- Becoming familiar with Java syntax and program structure.
+- Understanding how instructions are executed.
+- Developing a logical approach to solving programming problems.
+- Building confidence in writing simple programs.
 
-| Folder | Area |
-|---|---|
-| `01-Basics` | Basic Java programs |
-| `02-Conditional-Statements` | Programs organised around decision-making statements |
-| `03-Loops` | Loop-based programming practice |
-| `04-Arrays-and-Strings` | Array and string practice |
-| `05-Methods-and-Functions` | Programs organised around methods |
+## Programming Practice Structure
 
-## My Approach
+The repository is organised into topic-based folders:
 
-I use these folders to keep programming practice organised by topic. This makes it easier to revisit concepts, compare different approaches and build on earlier programs.
+- `01-Basics`
+- `02-Conditional-Statements`
+- `03-Loops`
+- `04-Arrays-and-Strings`
+- `05-Methods-and-Functions`
 
-## Learning Focus
-
-- Becoming familiar with Java program structure and syntax.
-- Understanding how programming instructions are written and executed.
-- Developing a foundation for solving problems through code.
-- Keeping practice programs organised for future reference.
-
-Only programs actually added to the respective folders should be considered part of the work available for review.
+This structure reflects the main areas used to organise my programming learning.
 
 ---
 
-*Trimester 1 coursework | KLH University | 2025*
+**Subject:** Problem Solving Through Programming (Java)  
+**Programme:** B.Tech, Computer Science and Information Technology  
+**Institution:** KLH University  
+**Trimester:** 1 | 2025
