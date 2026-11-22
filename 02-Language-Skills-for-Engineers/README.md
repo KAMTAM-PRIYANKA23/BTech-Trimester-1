@@ -1,26 +1,22 @@
 ﻿# Language Skills for Engineers
 
-## Overview
+This folder contains my coursework for **Language Skills for Engineers**, completed during B.Tech Trimester 1 at KLH University.
 
-Language Skills for Engineers focused on academic language practice through coursework and Cambridge assignments during Trimester 1.
+## Coursework
 
-The subject formed part of the communication foundation expected of engineering students, alongside technical and analytical learning.
+The subject included assignments completed through the Cambridge learning platform. I have organised this section to keep the work associated with the course together and make it easier to review.
 
-## Academic Work
+### My Learning
 
-### Cambridge Assignments
-Completed Cambridge assignments as part of the subject coursework.
+Through the coursework, I worked on language-based tasks as part of my engineering studies. The subject formed part of my development as a student who needs to communicate ideas clearly in an academic and professional environment.
 
-Assignment documents and supporting materials can be organised in this folder where available.
+### Coursework Record
 
-## Relevance to Engineering
+- Cambridge assignments completed as part of the subject.
+- Related learning material and assignment work, where available.
 
-Clear communication is important throughout an engineering workflow, including:
-- Understanding and interpreting instructions.
-- Expressing ideas in a structured manner.
-- Communicating information clearly.
-- Presenting academic and technical work.
+I will keep the assignment material here as a record of the work completed during the trimester. Individual assignment titles and details will be included alongside the corresponding work rather than added without verification.
 
-## Coursework Record
+---
 
-This folder is intended to hold the available Cambridge assignment work and related subject materials from Trimester 1.
+*Trimester 1 coursework | KLH University | 2025*

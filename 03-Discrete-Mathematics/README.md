@@ -1,99 +1,67 @@
 ﻿# Discrete Mathematics
 
-**Course Code:** 25MT1002E  
-**Credits:** 4  
-**Academic Year:** 2025–2026  
-**Institution:** KL Deemed to be University
+This folder records the topics I studied in **Discrete Mathematics** during B.Tech Trimester 1 at KLH University.
 
-## Course Overview
+The subject introduced me to sets, relations, functions, mathematical logic, proof techniques, counting methods, recurrence relations and graph theory. The sections below reflect the areas covered during the course.
 
-Discrete Mathematics develops the mathematical reasoning and logical foundations used in Computer Science. The course covers discrete structures, functions, logic, proof techniques, counting methods, recurrence relations and graph theory.
+## Topics Studied
 
-The syllabus is organised around four course outcomes.
+### 1. Sets and Relations
 
-## Course Content
-
-### CO1 — Basic Discrete Structures
-
-- Sets and subsets
-- Power sets and Cartesian products
-- Set operations and Venn diagrams
-- Inclusion–Exclusion Principle
+- Sets, subsets and power sets
+- Cartesian products and set operations
+- Venn diagrams and the inclusion-exclusion principle
 - Computer representation of sets
 - Relations and their properties
-- Equivalence and partial-order relations
-- Posets and lattices
-- Hasse diagrams
+- Partially ordered sets (Posets)
+- Lattices and Hasse diagrams
 
-### CO2 — Functions and Logic
+### 2. Functions and Logic
 
-- Basic concepts of functions
 - Injective and bijective functions
 - Inverse and composite functions
-- Ceiling and floor functions
+- Floor and ceiling functions
 - Boolean functions
-- Propositional logic and propositional equivalences
+- Propositions and logical equivalences
 - Rules of inference
 - Predicates and quantifiers
 - Negation of quantified statements
 
-### CO3 — Proof Methods and Counting
+### 3. Proof Techniques and Counting
 
-**Proof methods**
-- Direct proof
-- Indirect proof
+- Direct and indirect proofs
 - Proof by contradiction
 - Proof by contraposition
-
-**Counting techniques**
-- Fundamental principles of counting
+- Basic counting principles
 - Pigeonhole principle
-- Permutations
-- Combinations
-
-### CO4 — Recurrence Relations and Graph Theory
-
-**Recurrence relations**
-- Linear recurrence relations with constant coefficients
-- Solving recurrence relations
-- Characteristic roots method
-- Generating functions and their applications
-
-**Graph theory**
-- Introduction to graphs and graph representations
-- Types of graphs
-- Graph isomorphism
-- Euler and Hamiltonian graphs
-- Shortest paths
-- Planar graphs
-- Graph coloring
-
-## Course Outcomes
-
-| Outcome | Expected Application |
-|---|---|
-| CO1 | Apply sets and relations to represent discrete structures, posets and lattices. |
-| CO2 | Use functions and logic to represent and validate mathematical and computational statements. |
-| CO3 | Apply proof techniques and counting principles to solve mathematical problems. |
-| CO4 | Use recurrence relations and graph theory to model computational problems and real-world structures. |
-
-## Open-Lab Practice Areas
-
-The course handout also lists practice areas including:
-- Set operations and Venn diagrams
-- Relations and equivalence relations
-- Hasse diagrams
-- Functions and their properties
-- Propositional logic and quantifiers
-- Proof techniques
 - Permutations and combinations
-- Linear recurrence relations
-- Graph isomorphism, Euler and Hamiltonian graphs, and shortest paths
 
-## Foundation for Computer Science
+### 4. Recurrence Relations and Graph Theory
 
-The concepts in this course provide mathematical foundations for logical reasoning, problem modelling, algorithmic thinking and understanding relationships between data and structures.
+- Linear recurrence relations with constant coefficients
+- Generating functions
+- Characteristic roots
+- Graph representations and types of graphs
+- Graph isomorphism
+- Euler and Hamiltonian paths
+- Shortest path problems
+- Planar graphs and graph colouring
+
+## Learning and Problem-Solving
+
+While studying these topics, I worked through mathematical problems involving:
+
+- Representing sets and examining relationships between their elements.
+- Identifying relation properties and understanding ordered structures.
+- Evaluating functions and analysing logical statements.
+- Applying proof methods to mathematical questions.
+- Solving counting problems using permutations, combinations and the pigeonhole principle.
+- Understanding recurrence relations and different graph structures.
+
+## What I Took Away
+
+The course helped me become more comfortable with step-by-step mathematical reasoning. I gained exposure to formal logic, proof-based problem-solving, counting methods and graph concepts that are useful in understanding discrete structures.
 
 ---
 
-*Course topics and outcomes are organised from the 2025–2026 Discrete Mathematics course handout.*
+*Trimester 1 coursework | KLH University | 2025*
